@@ -45,6 +45,7 @@ power_lab/
 
 ```bash
 python main.py
+```
 
 📖 Manual de Uso
 Menú Principal
